@@ -37,6 +37,9 @@ The [Fake Crypto Sender Software](https://fakecryptosender.org) has the best fea
 # How to Purchase The Fake Crypto Sender Software?
 You can only purchase the Fake Crypto sender software only from the official developers at official website: www.fakecryptosender.com or official store: www.fakecryptosender.com/dark-store
 
+# Demo Of Our Software
+You can access a demo of our software directly from our [demo page](https://fakecryptosender.com/demo) or our [official telegram channel](https://t.me/fakecryptosender
+
 # Contact Developer via:
 
 Whatsapp: [+49-176-12451310](https://wa.me/4917612451310)
@@ -44,5 +47,3 @@ Whatsapp: [+49-176-12451310](https://wa.me/4917612451310)
 Telegram: [@Fake_Crypto_Sender](https://t.me/fake_crypto_sender)
 
 Email: admin@fakecryptosender.com
-
-Official Telegram channel: [@Fakecryptosender](https://t.me/fakecryptosender)
