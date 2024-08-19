@@ -2,7 +2,7 @@
 
 # What is the Fake Crypto Sender Software??
 
-[Fake Crypto Sender](https://fakecryptosender.com) is a powerful software that can also be called a [fake USDT sender](https://fakecryptosender.com), Fake Bitcoin sender, fake Ethereum sender, fake Dogecoin sender, fake Litecoin sender and more!! This is because it can flash/send up-to $1,000,000 in 10 different cryptocurrencies (USDT/Tether, Bitcoin, Ethereum, Dogecoin, litecoin, solana, xrp, and more) with a 97.8% success to over 45 different wallets like Binance, Trustwallet, Coinbase, Electrum, OKX, Revolut and more (DEX- Decentralized Exchanges and CEX- Centralized Exchanges included)
+[Fake Crypto Sender](https://fakecryptosender.com) is a powerful software that can also be called a [fake USDT sender](https://fakecryptosender.com), Fake Bitcoin sender, fake Ethereum sender, fake Dogecoin sender, fake Litecoin sender and more!! This is because it can flash/send up-to **$1,000,000** in 10 different cryptocurrencies (USDT/Tether, Bitcoin, Ethereum, Dogecoin, litecoin, solana, xrp, and more) with a 97.8% success to over 45 different wallets like Binance, Trustwallet, Coinbase, Electrum, OKX, Revolut and more (DEX- Decentralized Exchanges and CEX- Centralized Exchanges included)
 
 
 
@@ -45,4 +45,4 @@ Telegram: [@Fake_Crypto_Sender](https://t.me/fake_crypto_sender)
 
 Email: admin@fakecryptosender.com
 
-Official Telegram channel: @Fakecryptosender (https://t.me/fakecryptosender)
+Official Telegram channel: [@Fakecryptosender](https://t.me/fakecryptosender)
